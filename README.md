@@ -1,6 +1,7 @@
 
 ## About it
 
+Simple example to show how to use real time simulator aplication in laravel 7 using Pusher
 
 ## Demo
 
